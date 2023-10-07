@@ -1,0 +1,2 @@
+# fuyou.github.io
+blog
